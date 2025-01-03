@@ -381,3 +381,48 @@
 [07:05:44] [Server thread/INFO]: [N0tailDMC: Set own game mode to Adventure Mode]
 [07:09:29] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
 [07:12:41] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:12:57] [Server thread/INFO]: [N0tailDMC: Set own game mode to Adventure Mode]
+[07:13:01] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
+[07:13:10] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:13:34] [Server thread/INFO]: [N0tailDMC: Set own game mode to Adventure Mode]
+[07:13:44] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[07:14:05] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:14:16] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:15:58] [Server thread/INFO]: Raz3kSpk was obliterated by a sonically-charged shriek
+[07:16:05] [Server thread/INFO]: Raz3kSpk lost connection: Timed out
+[07:16:05] [Server thread/INFO]: Raz3kSpk left the game
+[07:16:51] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
+[07:17:03] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[07:18:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1185, y=-50, z=1294} gu{x=1185, y=-51, z=1295}
+[07:18:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1185, y=-50, z=1294} gu{x=1185, y=-51, z=1295}
+[07:18:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1185, y=-50, z=1294} gu{x=1185, y=-51, z=1295}
+[07:18:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1185, y=-50, z=1294} gu{x=1185, y=-51, z=1295}
+[07:18:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1185, y=-50, z=1294} gu{x=1185, y=-51, z=1295}
+[07:18:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1185, y=-50, z=1294} gu{x=1185, y=-51, z=1295}
+[07:18:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1185, y=-50, z=1294} gu{x=1185, y=-51, z=1295}
+[07:18:56] [Server thread/INFO]: Raz3kSpk[/[0:0:0:0:0:0:0:1%0]:57614] logged in with entity id 62083 at (1112.300000011921, -29.0, 1259.4814389245864)
+[07:18:56] [Server thread/INFO]: Raz3kSpk joined the game
+[07:19:04] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:20:33] [Server thread/INFO]: Raz3kSpk has made the advancement [Diamonds!]
+[07:21:09] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
+[07:21:29] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[07:24:58] [Server thread/INFO]: colcolic was obliterated by a sonically-charged shriek
+[07:25:06] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to Raz3kSpk]
+[07:27:34] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to Raz3kSpk]
+[07:28:08] [Server thread/INFO]: colcolic was doomed to fall by Raz3kSpk
+[07:28:12] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to Raz3kSpk]
+[07:28:15] [Server thread/INFO]: Raz3kSpk was doomed to fall by colcolic
+[07:28:19] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to Raz3kSpk]
+[07:28:36] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=4, y=70, z=-3}
+[07:28:59] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
+[07:29:02] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[07:29:21] [Server thread/INFO]: [Not Secure] <Raz3kSpk> tp
+[07:29:39] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to Raz3kSpk]
+[07:29:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=1, y=71, z=6}
+[07:29:49] [Server thread/INFO]: Raz3kSpk was slain by colcolic
+[07:29:53] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-2, y=68, z=14}
+[07:29:53] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:29:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-2, y=68, z=14}
+[07:29:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-2, y=68, z=14}
+[07:29:55] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:31:23] [Server thread/INFO]: [N0tailDMC: The difficulty has been set to Normal]

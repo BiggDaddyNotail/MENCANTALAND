@@ -232,6 +232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-03 07:28:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-01-03 06:05:50 +0000"
@@ -361,6 +367,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-01-03 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-03 07:28:45 +0000"
     },
     "done": true
   },
@@ -637,6 +649,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 05:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-03 07:28:45 +0000"
     },
     "done": true
   },
@@ -1223,7 +1241,8 @@
       "cooked_mutton": "2025-01-03 06:01:54 +0000",
       "bread": "2025-01-03 06:56:28 +0000",
       "melon_slice": "2025-01-03 06:04:53 +0000",
-      "cooked_chicken": "2025-01-03 06:01:32 +0000"
+      "cooked_chicken": "2025-01-03 06:01:32 +0000",
+      "enchanted_golden_apple": "2025-01-03 07:13:23 +0000"
     },
     "done": false
   },
