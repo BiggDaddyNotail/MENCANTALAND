@@ -426,3 +426,48 @@
 [07:29:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-2, y=68, z=14}
 [07:29:55] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
 [07:31:23] [Server thread/INFO]: [N0tailDMC: The difficulty has been set to Normal]
+[07:33:18] [Server thread/INFO]: N0tailDMC was obliterated by a sonically-charged shriek
+[07:33:28] [Server thread/INFO]: [N0tailDMC: Teleported N0tailDMC to Raz3kSpk]
+[07:34:21] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
+[07:34:27] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[07:35:40] [Server thread/INFO]: colcolic hit the ground too hard whilst trying to escape Warden
+[07:35:41] [Server thread/INFO]: Raz3kSpk was obliterated by a sonically-charged shriek
+[07:35:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=3, y=89, z=5}
+[07:35:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=3, y=89, z=6}
+[07:35:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=2, y=88, z=6}
+[07:35:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=2, y=88, z=6}
+[07:35:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=2, y=88, z=6}
+[07:35:49] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=2, y=88, z=6}
+[07:36:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-5, y=66, z=17} gu{x=-6, y=66, z=16}
+[07:36:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-5, y=66, z=17} gu{x=-7, y=66, z=14}
+[07:36:07] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:36:09] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:36:11] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:37:33] [Server thread/INFO]: colcolic was shot by N0tailDMC
+[07:37:44] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:37:46] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:38:09] [Server thread/INFO]: colcolic was slain by Warden
+[07:38:19] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:38:49] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
+[07:38:50] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[07:38:59] [Server thread/INFO]: Raz3kSpk tried to swim in lava to escape colcolic
+[07:39:05] [Server thread/INFO]: colcolic tried to swim in lava
+[07:39:11] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:39:12] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:39:20] [Server thread/INFO]: Raz3kSpk tried to swim in lava to escape colcolic
+[07:39:25] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:41:30] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:41:57] [Server thread/INFO]: colcolic was slain by Raz3kSpk
+[07:42:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=4, y=73, z=-9}
+[07:42:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=4, y=73, z=-10}
+[07:42:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=3, y=73, z=-10}
+[07:42:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=4, y=73, z=-10}
+[07:42:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=4, y=73, z=-9}
+[07:42:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=5, y=73, z=-9}
+[07:42:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=5, y=73, z=-8}
+[07:42:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=6, y=73, z=-9}
+[07:42:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=7, y=73, z=-9}
+[07:42:06] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=7, y=76, z=-5}
+[07:42:07] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:42:21] [Server thread/INFO]: Raz3kSpk was slain by colcolic
+[07:42:26] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
