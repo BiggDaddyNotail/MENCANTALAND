@@ -471,3 +471,82 @@
 [07:42:07] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
 [07:42:21] [Server thread/INFO]: Raz3kSpk was slain by colcolic
 [07:42:26] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:43:25] [Server thread/INFO]: colcolic was slain by Raz3kSpk
+[07:43:31] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:44:01] [Server thread/INFO]: Raz3kSpk was slain by colcolic
+[07:44:13] [Server thread/INFO]: N0tailDMC was killed
+[07:44:13] [Server thread/INFO]: colcolic was killed
+[07:44:13] [Server thread/INFO]: Raz3kSpk was killed
+[07:44:13] [Server thread/INFO]: [N0tailDMC: Killed 3 entities]
+[07:44:18] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
+[07:44:24] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:44:25] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:45:23] [Server thread/INFO]: colcolic was slain by Raz3kSpk
+[07:45:33] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:46:09] [Server thread/INFO]: Raz3kSpk was killed
+[07:46:09] [Server thread/INFO]: [N0tailDMC: Killed Raz3kSpk]
+[07:46:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=7, y=77, z=-2}
+[07:46:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=8, y=76, z=-3}
+[07:46:17] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:46:51] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:47:54] [Server thread/INFO]: colcolic has reached the goal [Postmortal]
+[07:47:54] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:47:59] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:48:10] [Server thread/INFO]: N0tailDMC was killed
+[07:48:10] [Server thread/INFO]: colcolic was killed
+[07:48:10] [Server thread/INFO]: Raz3kSpk was killed
+[07:48:10] [Server thread/INFO]: [N0tailDMC: Killed 3 entities]
+[07:48:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-4, y=84, z=5}
+[07:48:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-4, y=84, z=6}
+[07:48:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-4, y=85, z=6}
+[07:48:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-4, y=84, z=5}
+[07:48:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-3, y=83, z=4}
+[07:48:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-2, y=81, z=4}
+[07:48:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-2, y=82, z=5}
+[07:48:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-2, y=81, z=4}
+[07:48:21] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:48:26] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:50:59] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:51:22] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:53:23] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[07:53:50] [Server thread/INFO]: colcolic was slain by N0tailDMC
+[07:53:58] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=3, y=70, z=5}
+[07:53:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=3, y=70, z=6}
+[07:53:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=3, y=69, z=7}
+[07:54:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=3, y=69, z=6}
+[07:54:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=11, y=66, z=15}
+[07:54:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=12, y=66, z=16}
+[07:54:06] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=14, y=66, z=16}
+[07:54:06] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=15, y=66, z=16}
+[07:54:06] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=16, y=66, z=16}
+[07:54:32] [Server thread/INFO]: colcolic was slain by Raz3kSpk
+[07:54:52] [Server thread/INFO]: Raz3kSpk has reached the goal [Postmortal]
+[07:55:03] [Server thread/INFO]: colcolic was slain by N0tailDMC
+[07:56:05] [Server thread/INFO]: colcolic was slain by Raz3kSpk
+[07:56:28] [Server thread/INFO]: colcolic was slain by N0tailDMC
+[07:56:46] [Server thread/INFO]: Raz3kSpk was slain by N0tailDMC
+[07:57:26] [Server thread/INFO]: colcolic was slain by N0tailDMC
+[07:57:35] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:57:37] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:57:42] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
+[07:58:09] [Server thread/INFO]: N0tailDMC has completed the challenge [Cover Me in Debris]
+[07:58:21] [Server thread/INFO]: colcolic was slain by Raz3kSpk
+[07:58:24] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:58:25] [Server thread/INFO]: Raz3kSpk was slain by colcolic
+[07:58:28] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[07:58:30] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[07:58:58] [Server thread/INFO]: colcolic has completed the challenge [Cover Me in Debris]
+[07:59:12] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[07:59:23] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[07:59:36] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[07:59:38] [Server thread/INFO]: colcolic was slain by N0tailDMC
+[07:59:51] [Server thread/INFO]: Raz3kSpk has completed the challenge [Cover Me in Debris]
+[07:59:53] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[08:00:14] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[08:00:17] [Server thread/INFO]: colcolic was slain by N0tailDMC
+[08:00:19] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[08:00:25] [Server thread/INFO]: [N0tailDMC: Teleported colcolic to N0tailDMC]
+[08:00:55] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[08:00:55] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[08:02:11] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[08:02:48] [Server thread/INFO]: colcolic was slain by N0tailDMC

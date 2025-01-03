@@ -220,6 +220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-03 07:43:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-01-03 06:58:16 +0000"
@@ -1157,6 +1163,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-03 07:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-01-03 06:10:14 +0000"
@@ -1320,6 +1332,7 @@
       "beef": "2025-01-03 07:41:03 +0000",
       "bread": "2025-01-03 06:56:28 +0000",
       "melon_slice": "2025-01-03 06:04:53 +0000",
+      "golden_carrot": "2025-01-03 07:50:22 +0000",
       "cooked_chicken": "2025-01-03 06:01:32 +0000",
       "enchanted_golden_apple": "2025-01-03 07:13:23 +0000"
     },
@@ -1544,6 +1557,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-01-03 05:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-03 07:58:58 +0000"
     },
     "done": true
   },
