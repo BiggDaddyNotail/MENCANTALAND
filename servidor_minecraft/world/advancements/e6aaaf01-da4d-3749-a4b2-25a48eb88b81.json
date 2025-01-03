@@ -35,9 +35,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 08:11:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-01-03 05:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-03 08:21:15 +0000"
     },
     "done": true
   },
@@ -188,6 +200,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-01-03 05:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 08:11:04 +0000"
     },
     "done": true
   },
@@ -791,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-03 08:11:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-03 06:10:31 +0000",
@@ -810,6 +834,18 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-03 05:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-01-03 08:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-01-03 08:22:41 +0000"
     },
     "done": true
   },
@@ -864,6 +900,12 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-01-03 07:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-03 08:21:09 +0000"
     },
     "done": true
   },
@@ -972,6 +1014,7 @@
       "minecraft:lush_caves": "2025-01-03 05:49:33 +0000",
       "minecraft:jungle": "2025-01-03 05:26:26 +0000",
       "minecraft:windswept_savanna": "2025-01-03 06:08:55 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-03 08:19:14 +0000",
       "minecraft:deep_dark": "2025-01-03 06:31:37 +0000",
       "minecraft:savanna": "2025-01-03 06:11:46 +0000",
       "minecraft:plains": "2025-01-03 06:09:49 +0000"
@@ -1126,6 +1169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-03 08:21:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-03 05:43:33 +0000"
@@ -1204,6 +1253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-03 08:21:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-03 05:58:34 +0000"
@@ -1267,6 +1322,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-01-03 05:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 08:21:09 +0000"
     },
     "done": true
   },
