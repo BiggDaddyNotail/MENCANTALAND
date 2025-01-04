@@ -11,7 +11,9 @@
       "minecraft:sunflower_plains": "2025-01-04 03:37:39 +0000",
       "minecraft:beach": "2025-01-04 02:52:56 +0000",
       "minecraft:river": "2025-01-04 02:44:59 +0000",
+      "minecraft:dripstone_caves": "2025-01-04 20:36:35 +0000",
       "minecraft:forest": "2025-01-04 02:52:23 +0000",
+      "minecraft:flower_forest": "2025-01-04 20:31:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-04 02:56:05 +0000",
       "minecraft:plains": "2025-01-04 02:42:51 +0000"
     },
@@ -816,6 +818,30 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-01-04 03:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-01-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-04 20:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-04 20:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-04 20:33:26 +0000"
     },
     "done": true
   },
