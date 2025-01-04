@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-04 02:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-01-04 01:57:03 +0000"
@@ -505,6 +511,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-04 02:22:20 +0000",
       "minecraft:zombie": "2025-01-04 02:07:09 +0000"
     },
     "done": false
