@@ -10,14 +10,23 @@
       "minecraft:snowy_slopes": "2025-01-04 03:16:34 +0000",
       "minecraft:old_growth_pine_taiga": "2025-01-04 03:18:09 +0000",
       "minecraft:taiga": "2025-01-04 03:17:19 +0000",
+      "minecraft:deep_ocean": "2025-01-04 03:42:49 +0000",
       "minecraft:sunflower_plains": "2025-01-04 01:23:42 +0000",
       "minecraft:birch_forest": "2025-01-04 01:52:37 +0000",
+      "minecraft:windswept_hills": "2025-01-04 03:44:33 +0000",
       "minecraft:beach": "2025-01-04 01:52:56 +0000",
       "minecraft:river": "2025-01-04 01:20:26 +0000",
+      "minecraft:stony_shore": "2025-01-04 03:35:22 +0000",
       "minecraft:dripstone_caves": "2025-01-04 01:26:54 +0000",
+      "minecraft:grove": "2025-01-04 03:32:48 +0000",
+      "minecraft:cold_ocean": "2025-01-04 03:36:04 +0000",
       "minecraft:forest": "2025-01-04 01:13:34 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-04 03:51:23 +0000",
+      "minecraft:ocean": "2025-01-04 03:42:37 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-04 03:18:29 +0000",
+      "minecraft:windswept_savanna": "2025-01-04 03:42:22 +0000",
       "minecraft:flower_forest": "2025-01-04 01:58:21 +0000",
+      "minecraft:frozen_peaks": "2025-01-04 03:33:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-04 03:11:36 +0000",
       "minecraft:meadow": "2025-01-04 03:16:23 +0000",
       "minecraft:plains": "2025-01-04 01:12:45 +0000"
@@ -326,6 +335,7 @@
       "beef": "2025-01-04 01:19:11 +0000",
       "apple": "2025-01-04 01:20:17 +0000",
       "mutton": "2025-01-04 03:10:22 +0000",
+      "golden_apple": "2025-01-04 04:09:06 +0000",
       "golden_carrot": "2025-01-04 03:05:51 +0000"
     },
     "done": false
@@ -1201,8 +1211,10 @@
       "minecraft:piglin_brute": "2025-01-04 02:54:55 +0000",
       "minecraft:spider": "2025-01-04 02:09:15 +0000",
       "minecraft:creeper": "2025-01-04 01:31:22 +0000",
+      "minecraft:cave_spider": "2025-01-04 04:08:33 +0000",
       "minecraft:piglin": "2025-01-04 02:57:07 +0000",
-      "minecraft:zombie": "2025-01-04 02:09:52 +0000"
+      "minecraft:zombie": "2025-01-04 02:09:52 +0000",
+      "minecraft:zombie_villager": "2025-01-04 04:11:00 +0000"
     },
     "done": false
   },
@@ -1742,9 +1754,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-04 03:42:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-04 03:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-04 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-04 03:42:45 +0000"
     },
     "done": true
   },
