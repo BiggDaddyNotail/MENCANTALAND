@@ -8,9 +8,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-01-04 20:46:19 +0000",
+      "minecraft:cherry_grove": "2025-01-04 23:16:17 +0000",
       "minecraft:beach": "2025-01-04 21:10:41 +0000",
       "minecraft:river": "2025-01-04 02:01:28 +0000",
       "minecraft:forest": "2025-01-04 01:55:44 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-04 23:10:45 +0000",
       "minecraft:plains": "2025-01-04 01:55:38 +0000"
     },
     "done": false
@@ -1398,6 +1400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-04 23:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-04 22:50:41 +0000"
@@ -1416,6 +1424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-04 23:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-04 22:50:41 +0000"
@@ -1431,6 +1445,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-04 22:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-04 23:24:48 +0000"
     },
     "done": true
   },
@@ -1482,9 +1502,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-01-04 23:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-04 23:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-01-04 22:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-04 23:24:51 +0000"
     },
     "done": true
   },
@@ -1518,6 +1556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 23:20:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-01-04 22:43:22 +0000"
@@ -1533,6 +1577,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-04 22:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-04 23:24:48 +0000"
     },
     "done": true
   },

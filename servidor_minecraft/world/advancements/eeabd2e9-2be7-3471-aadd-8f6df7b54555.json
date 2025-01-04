@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:taiga": "2025-01-04 03:25:10 +0000",
       "minecraft:sunflower_plains": "2025-01-04 02:37:13 +0000",
+      "minecraft:cherry_grove": "2025-01-04 23:28:04 +0000",
       "minecraft:birch_forest": "2025-01-04 02:54:57 +0000",
       "minecraft:beach": "2025-01-04 02:55:30 +0000",
       "minecraft:river": "2025-01-04 01:43:58 +0000",
@@ -43,6 +44,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-01-04 23:18:43 +0000",
       "cooked_mutton": "2025-01-04 02:15:44 +0000",
       "cooked_beef": "2025-01-04 03:15:35 +0000",
       "apple": "2025-01-04 01:57:52 +0000",
@@ -1298,6 +1300,90 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-04 04:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-04 23:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-04 23:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-01-04 23:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-04 23:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-04 23:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-01-04 23:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-04 23:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-04 23:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-04 23:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-04 23:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-04 23:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-04 23:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-04 23:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-04 23:27:59 +0000"
     },
     "done": true
   },
