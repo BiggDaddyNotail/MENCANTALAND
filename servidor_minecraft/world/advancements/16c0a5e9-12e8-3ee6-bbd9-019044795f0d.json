@@ -547,11 +547,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-04 03:30:04 +0000",
+      "minecraft:magma_cube": "2025-01-05 22:45:29 +0000",
       "minecraft:spider": "2025-01-04 04:03:50 +0000",
       "minecraft:creeper": "2025-01-04 04:04:07 +0000",
       "minecraft:phantom": "2025-01-05 00:16:52 +0000",
+      "minecraft:zombified_piglin": "2025-01-05 22:44:18 +0000",
       "minecraft:cave_spider": "2025-01-05 22:22:27 +0000",
       "minecraft:piglin": "2025-01-05 22:42:38 +0000",
+      "minecraft:enderman": "2025-01-05 22:51:29 +0000",
       "minecraft:zombie": "2025-01-04 03:29:56 +0000",
       "minecraft:drowned": "2025-01-05 01:22:22 +0000"
     },
@@ -1387,7 +1390,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-01-04 22:35:12 +0000"
+      "minecraft:crimson_forest": "2025-01-05 22:52:48 +0000",
+      "minecraft:nether_wastes": "2025-01-04 22:35:12 +0000",
+      "minecraft:soul_sand_valley": "2025-01-05 22:52:45 +0000",
+      "minecraft:warped_forest": "2025-01-05 22:49:31 +0000"
     },
     "done": false
   },
@@ -1889,6 +1895,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-05 22:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-05 22:53:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-01-05 21:27:19 +0000"
@@ -1907,6 +1925,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-05 22:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-05 22:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-05 22:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-05 22:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-05 22:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-05 22:44:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-01-05 21:53:12 +0000"
@@ -1919,9 +1973,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-05 22:53:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-01-05 21:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-05 22:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-05 22:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-05 22:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-05 22:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-05 22:53:04 +0000"
     },
     "done": true
   },
