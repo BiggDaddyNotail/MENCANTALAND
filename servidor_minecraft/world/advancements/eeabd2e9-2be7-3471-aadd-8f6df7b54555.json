@@ -1449,7 +1449,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cat": "2025-01-05 02:59:17 +0000"
+      "minecraft:cat": "2025-01-05 02:59:17 +0000",
+      "minecraft:horse": "2025-01-05 03:06:32 +0000"
     },
     "done": false
   },

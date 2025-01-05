@@ -625,3 +625,122 @@
 [03:03:22] [Server thread/WARN]: Unable to create attribute: null
 [03:03:22] [Server thread/WARN]: Unable to create attribute: null
 [03:03:35] [Server thread/INFO]: [kchabuelas35: Set own game mode to Creative Mode]
+[03:04:13] [Server thread/WARN]: Horse (vehicle of kchabuelas35) moved wrongly! 0.42855394896684373
+[03:04:13] [Server thread/WARN]: Horse (vehicle of kchabuelas35) moved wrongly! 0.8997060894356608
+[03:04:13] [Server thread/WARN]: Horse (vehicle of kchabuelas35) moved wrongly! 1.3711587688371942
+[03:04:13] [Server thread/WARN]: Horse (vehicle of kchabuelas35) moved wrongly! 1.8426984927251269
+[03:04:13] [Server thread/WARN]: Horse (vehicle of kchabuelas35) moved wrongly! 2.3140604270000864
+[03:04:14] [Server thread/WARN]: Horse (vehicle of kchabuelas35) moved wrongly! 2.7851210510527444
+[03:04:45] [Server thread/INFO]: Locating element #minecraft:eye_of_ender_located (minecraft:stronghold) took 0 ms
+[03:04:47] [Server thread/INFO]: [N0tailDMC: Teleported N0tailDMC to 1472.500000, 72.000000, 448.500000]
+[03:04:49] [Server thread/INFO]: [kchabuelas35: Teleported kchabuelas35 to N0tailDMC]
+[03:04:56] [Server thread/WARN]: N0tailDMC moved too quickly! -0.3180769924379092,-12.105068562578861,-0.06501271933808539
+[03:05:11] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[03:05:15] [Server thread/INFO]: kchabuelas35 has made the advancement [Eye Spy]
+[03:05:15] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
+[03:05:23] [Server thread/INFO]: kchabuelas35 has completed the challenge [Cover Me in Debris]
+[03:05:39] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[03:05:48] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
+[03:06:14] [Server thread/INFO]: [kchabuelas35: Set own game mode to Survival Mode]
+[03:06:21] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[03:07:24] [Server thread/WARN]: Unable to create attribute: null
+[03:07:32] [Server thread/WARN]: Unable to create attribute: null
+[03:07:33] [Server thread/WARN]: Unable to create attribute: null
+[03:07:38] [Server thread/WARN]: Unable to create attribute: null
+[03:07:39] [Server thread/WARN]: Unable to create attribute: null
+[03:07:46] [Server thread/WARN]: Unable to create attribute: null
+[03:08:23] [Server thread/WARN]: Unable to create attribute: null
+[03:08:24] [Server thread/WARN]: Unable to create attribute: null
+[03:08:24] [Server thread/WARN]: Unable to create attribute: null
+[03:08:35] [Server thread/WARN]: Unable to create attribute: null
+[03:08:39] [Server thread/INFO]: [kchabuelas35: Set own game mode to Creative Mode]
+[03:08:42] [Server thread/INFO]: [kchabuelas35: Set own game mode to Survival Mode]
+[03:08:44] [Server thread/WARN]: Unable to create attribute: null
+[03:08:49] [Server thread/WARN]: Unable to create attribute: null
+[03:08:52] [Server thread/WARN]: Unable to create attribute: null
+[03:08:55] [Server thread/WARN]: Unable to create attribute: null
+[03:08:55] [Server thread/WARN]: Unable to create attribute: null
+[03:08:55] [Server thread/WARN]: Unable to create attribute: null
+[03:08:55] [Server thread/WARN]: Unable to create attribute: null
+[03:09:02] [Server thread/INFO]: [kchabuelas35: Set own game mode to Creative Mode]
+[03:09:23] [Server thread/INFO]: [kchabuelas35: Set own game mode to Survival Mode]
+[03:09:24] [Server thread/WARN]: Unable to create attribute: null
+[03:09:24] [Server thread/WARN]: Unable to create attribute: null
+[03:09:24] [Server thread/WARN]: Unable to create attribute: null
+[03:09:24] [Server thread/WARN]: Unable to create attribute: null
+[03:09:24] [Server thread/WARN]: Unable to create attribute: null
+[03:09:24] [Server thread/WARN]: Unable to create attribute: null
+[03:09:24] [Server thread/WARN]: Unable to create attribute: null
+[03:09:24] [Server thread/WARN]: Unable to create attribute: null
+[03:09:27] [Server thread/WARN]: Unable to create attribute: null
+[03:09:27] [Server thread/WARN]: Unable to create attribute: null
+[03:09:28] [Server thread/WARN]: Unable to create attribute: null
+[03:09:28] [Server thread/WARN]: Unable to create attribute: null
+[03:09:28] [Server thread/WARN]: Unable to create attribute: null
+[03:09:28] [Server thread/WARN]: Unable to create attribute: null
+[03:09:28] [Server thread/WARN]: Unable to create attribute: null
+[03:09:28] [Server thread/WARN]: Unable to create attribute: null
+[03:09:28] [Server thread/WARN]: Unable to create attribute: null
+[03:09:28] [Server thread/WARN]: Unable to create attribute: null
+[03:09:30] [Server thread/WARN]: Unable to create attribute: null
+[03:09:30] [Server thread/WARN]: Unable to create attribute: null
+[03:09:30] [Server thread/WARN]: Unable to create attribute: null
+[03:09:30] [Server thread/WARN]: Unable to create attribute: null
+[03:09:30] [Server thread/WARN]: Unable to create attribute: null
+[03:09:30] [Server thread/WARN]: Unable to create attribute: null
+[03:09:30] [Server thread/WARN]: Unable to create attribute: null
+[03:09:30] [Server thread/WARN]: Unable to create attribute: null
+[03:09:30] [Server thread/WARN]: Unable to create attribute: null
+[03:09:30] [Server thread/WARN]: Unable to create attribute: null
+[03:10:03] [Server thread/WARN]: Unable to create attribute: null
+[03:10:03] [Server thread/WARN]: Unable to create attribute: null
+[03:10:04] [Server thread/WARN]: Unable to create attribute: null
+[03:10:11] [Server thread/WARN]: Unable to create attribute: null
+[03:10:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1493, y=-50, z=511} gu{x=1490, y=-51, z=513}
+[03:10:18] [Server thread/WARN]: Unable to create attribute: null
+[03:10:55] [Server thread/WARN]: Unable to create attribute: null
+[03:10:56] [Server thread/WARN]: Unable to create attribute: null
+[03:10:58] [Server thread/WARN]: Unable to create attribute: null
+[03:11:02] [Server thread/WARN]: Unable to create attribute: null
+[03:11:17] [Server thread/INFO]: [kchabuelas35: Set own game mode to Creative Mode]
+[03:11:28] [Server thread/INFO]: [kchabuelas35: Teleported kchabuelas35 to N0tailDMC]
+[03:11:34] [Server thread/INFO]: [kchabuelas35: Set own game mode to Survival Mode]
+[03:11:37] [Server thread/WARN]: Unable to create attribute: null
+[03:11:41] [Server thread/WARN]: Unable to create attribute: null
+[03:11:41] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
+[03:11:49] [Server thread/INFO]: [kchabuelas35: Set own game mode to Creative Mode]
+[03:11:57] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[03:12:02] [Server thread/INFO]: [kchabuelas35: Set own game mode to Survival Mode]
+[03:12:04] [Server thread/WARN]: Unable to create attribute: null
+[03:12:04] [Server thread/WARN]: Unable to create attribute: null
+[03:12:08] [Server thread/INFO]: kchabuelas35 has made the advancement [The End?]
+[03:12:15] [Server thread/WARN]: Unable to create attribute: null
+[03:12:17] [Server thread/WARN]: Unable to create attribute: null
+[03:12:22] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
+[03:12:30] [Server thread/INFO]: [Not Secure] <Ayuwoki_uwu> pidele mas
+[03:12:35] [Server thread/INFO]: [Not Secure] <Ayuwoki_uwu> ese se kga en diamantes xd
+[03:12:36] [Server thread/WARN]: Unable to create attribute: null
+[03:12:36] [Server thread/WARN]: Unable to create attribute: null
+[03:12:37] [Server thread/INFO]: [Not Secure] <colcolic> XD
+[03:12:43] [Server thread/WARN]: Unable to create attribute: null
+[03:12:43] [Server thread/WARN]: Unable to create attribute: null
+[03:12:49] [Server thread/WARN]: Unable to create attribute: null
+[03:12:49] [Server thread/WARN]: Unable to create attribute: null
+[03:12:54] [Server thread/WARN]: Unable to create attribute: null
+[03:12:54] [Server thread/WARN]: Unable to create attribute: null
+[03:13:13] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[03:13:13] [Server thread/WARN]: Unable to create attribute: null
+[03:13:14] [Server thread/WARN]: Unable to create attribute: null
+[03:13:18] [Server thread/WARN]: Unable to create attribute: null
+[03:13:20] [Server thread/WARN]: Unable to create attribute: null
+[03:13:23] [Server thread/WARN]: Unable to create attribute: null
+[03:13:23] [Server thread/WARN]: Unable to create attribute: null
+[03:13:28] [Server thread/WARN]: Unable to create attribute: null
+[03:13:29] [Server thread/WARN]: Unable to create attribute: null
+[03:13:44] [Server thread/INFO]: [Not Secure] <Ayuwoki_uwu> godo
+[03:13:45] [Server thread/INFO]: [Not Secure] <Ayuwoki_uwu> godo
+[03:13:48] [Server thread/INFO]: [Not Secure] <kchabuelas35> que
+[03:13:58] [Server thread/INFO]: N0tailDMC has reached the goal [The End... Again...]
+[03:13:58] [Server thread/INFO]: kchabuelas35 has reached the goal [The End... Again...]
+[03:14:04] [Server thread/WARN]: Unable to create attribute: null
+[03:14:04] [Server thread/WARN]: Unable to create attribute: null
