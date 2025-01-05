@@ -1,80 +1,10 @@
-[14:58:08] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:58:10] [ServerMain/INFO]: Loaded 7 recipes
-[14:58:10] [ServerMain/INFO]: Loaded 1271 advancements
-[14:58:10] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[14:58:10] [Server thread/INFO]: Loading properties
-[14:58:10] [Server thread/INFO]: Default game type: SURVIVAL
-[14:58:10] [Server thread/INFO]: Generating keypair
-[14:58:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:58:11] [Server thread/INFO]: Using epoll channel type
-[14:58:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:58:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:58:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:58:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:58:11] [Server thread/INFO]: Preparing level "world"
-[14:58:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:58:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:58:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:58:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:58:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:58:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:58:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:58:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:58:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:58:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:58:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:58:19] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[14:58:19] [Worker-Main-1/INFO]: Preparing spawn area: 57%
-[14:58:20] [Server thread/INFO]: Time elapsed: 5977 ms
-[14:58:20] [Server thread/INFO]: Done (8.871s)! For help, type "help"
-[15:01:41] [Server thread/INFO]: colcolic[/127.176.29.58:33705] logged in with entity id 155 at (-180.5, 59.0, 158.5)
-[15:01:41] [Server thread/INFO]: colcolic joined the game
-[15:03:05] [Server thread/INFO]: assassin25173[/127.34.152.188:43629] logged in with entity id 314 at (92.66934079948275, 65.0, 136.71402020253944)
-[15:03:05] [Server thread/INFO]: assassin25173 joined the game
-[15:04:18] [Server thread/INFO]: colcolic has made the advancement [Ice Bucket Challenge]
-[15:09:48] [Server thread/INFO]: colcolic fell from a high place
-[15:13:32] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=74, y=67, z=100} gu{x=75, y=65, z=100}
-[15:13:32] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=74, y=67, z=100} gu{x=75, y=65, z=100}
-[15:27:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=109, y=65, z=50} gu{x=110, y=63, z=50}
-[15:27:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=113, y=65, z=53} gu{x=114, y=63, z=54}
-[15:27:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=114, y=64, z=52} gu{x=113, y=63, z=50}
-[15:29:19] [Server thread/INFO]: sweetpainzzz[/127.91.217.177:54641] logged in with entity id 9169 at (-3.836955256372705, 62.0, 193.0079606315998)
-[15:29:19] [Server thread/INFO]: sweetpainzzz joined the game
-[15:37:08] [Server thread/INFO]: colcolic has made the advancement [Enchanter]
-[16:04:23] [Server thread/INFO]: sweetpainzzz was shot by Skeleton
-[16:14:16] [Server thread/INFO]: sweetpainzzz has made the advancement [Acquire Hardware]
-[16:21:06] [Server thread/INFO]: sweetpainzzz lost connection: Disconnected
-[16:21:06] [Server thread/INFO]: sweetpainzzz left the game
-[16:22:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=21, y=65, z=9} gu{x=16, y=65, z=-2}
-[16:22:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=21, y=65, z=9} gu{x=15, y=65, z=-1}
-[16:38:17] [Server thread/INFO]: kchabuelas35[/127.140.216.34:50267] logged in with entity id 31558 at (17.43393425185704, 71.0, 103.0362768824155)
-[16:38:17] [Server thread/INFO]: kchabuelas35 joined the game
-[16:38:36] [Server thread/INFO]: [kchabuelas35: Teleported kchabuelas35 to colcolic]
-[16:39:57] [Server thread/INFO]: [kchabuelas35: Teleported kchabuelas35 to assassin25173]
-[16:42:45] [Server thread/INFO]: [kchabuelas35: Set own game mode to Survival Mode]
-[16:43:44] [Server thread/INFO]: assassin25173 was blown up by Creeper
-[16:46:48] [Server thread/INFO]: [kchabuelas35: Set own game mode to Creative Mode]
-[16:52:03] [Server thread/INFO]: kchabuelas35 lost connection: Disconnected
-[16:52:03] [Server thread/INFO]: kchabuelas35 left the game
-[16:52:03] [Server thread/WARN]: handleDisconnection() called twice
-[16:52:57] [Server thread/INFO]: kchabuelas35[/127.140.216.34:57063] logged in with entity id 36888 at (-6.224514351324111, 64.0, 185.96579689189772)
-[16:52:57] [Server thread/INFO]: kchabuelas35 joined the game
-[16:53:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=48, y=70, z=125} gu{x=48, y=68, z=127}
-[16:53:46] [Server thread/INFO]: sweetpainzzz[/127.91.217.177:49343] logged in with entity id 37226 at (-36.027871761821594, 66.0, 411.5515899836401)
-[16:53:46] [Server thread/INFO]: sweetpainzzz joined the game
-[16:54:22] [Server thread/INFO]: [kchabuelas35: Teleported kchabuelas35 to sweetpainzzz]
-[16:55:42] [Server thread/INFO]: [kchabuelas35: Set own game mode to Survival Mode]
-[16:57:03] [Server thread/INFO]: [kchabuelas35: Set own game mode to Creative Mode]
-[16:58:25] [Server thread/INFO]: [kchabuelas35: Set own game mode to Survival Mode]
-[17:02:10] [Server thread/INFO]: [kchabuelas35: Set own game mode to Creative Mode]
-[17:02:51] [Server thread/INFO]: sweetpainzzz fell from a high place
-[17:02:53] [Server thread/INFO]: sweetpainzzz lost connection: Disconnected
-[17:02:53] [Server thread/INFO]: sweetpainzzz left the game
-[17:05:17] [Server thread/INFO]: [kchabuelas35: Set own game mode to Survival Mode]
-[17:05:44] [Server thread/INFO]: kchabuelas35 lost connection: Disconnected
-[17:05:44] [Server thread/INFO]: kchabuelas35 left the game
-[17:20:04] [Server thread/INFO]: colcolic has made the advancement [The Parrots and the Bats]
-[17:27:33] [Server thread/WARN]: assassin25173 was kicked for floating too long!
-[17:27:33] [Server thread/INFO]: assassin25173 lost connection: Flying is not enabled on this server
-[17:27:33] [Server thread/INFO]: assassin25173 left the game
-[17:42:49] [Server thread/INFO]: colcolic fell from a high place
+[17:56:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:56:13] [ServerMain/ERROR]: Failed to start the minecraft server
+aog$a: /workspaces/MENCANTALAND/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at aog$a.a(SourceFile:95) ~[server-1.20.1.jar:?]
+	at aog.a(SourceFile:41) ~[server-1.20.1.jar:?]
+	at dyy$c.<init>(SourceFile:398) ~[server-1.20.1.jar:?]
+	at dyy.c(SourceFile:377) ~[server-1.20.1.jar:?]
+	at net.minecraft.server.Main.main(SourceFile:136) ~[server-1.20.1.jar:?]
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
