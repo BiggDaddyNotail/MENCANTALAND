@@ -2089,6 +2089,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-05 15:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-01-05 15:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-01-05 16:20:45 +0000"
@@ -2101,21 +2113,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "has_gold_block": "2025-01-05 16:48:42 +0000"
+      "has_amethyst_shard": "2025-01-05 16:20:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
-      "has_book": "2025-01-05 17:12:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-01-05 16:50:07 +0000"
+      "has_amethyst_shard": "2025-01-05 16:20:45 +0000"
     },
     "done": true
   },
@@ -2125,9 +2131,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-05 16:40:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-05 16:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-05 16:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 16:48:42 +0000"
     },
     "done": true
   },
@@ -2137,15 +2161,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_bow": "2025-01-05 15:06:58 +0000"
+      "has_diamond_block": "2025-01-05 16:50:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_amethyst_shard": "2025-01-05 16:20:45 +0000"
+      "has_netherrack": "2025-01-05 17:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-05 17:12:31 +0000"
     },
     "done": true
   },
@@ -2161,39 +2191,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-05 16:20:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-01-05 16:40:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-01-05 17:12:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-01-05 16:48:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-01-05 15:27:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-01-05 17:09:37 +0000"
     },
     "done": true
   },
