@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-05 22:17:41 +0000",
       "minecraft:sunflower_plains": "2025-01-04 03:18:06 +0000",
       "minecraft:birch_forest": "2025-01-04 03:53:30 +0000",
       "minecraft:beach": "2025-01-04 03:54:11 +0000",
@@ -549,6 +550,7 @@
       "minecraft:spider": "2025-01-04 04:03:50 +0000",
       "minecraft:creeper": "2025-01-04 04:04:07 +0000",
       "minecraft:phantom": "2025-01-05 00:16:52 +0000",
+      "minecraft:cave_spider": "2025-01-05 22:22:27 +0000",
       "minecraft:zombie": "2025-01-04 03:29:56 +0000",
       "minecraft:drowned": "2025-01-05 01:22:22 +0000"
     },
