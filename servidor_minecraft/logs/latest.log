@@ -357,3 +357,51 @@
 [02:22:16] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=40, y=25, z=34} gu{x=38, y=26, z=34}
 [02:22:16] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=39, y=24, z=34} gu{x=38, y=23, z=34}
 [02:22:37] [Server thread/INFO]: [N0tailDMC: Teleported Raz3kSpk to N0tailDMC]
+[02:23:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=137, y=16, z=46} gu{x=141, y=15, z=44}
+[02:23:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=138, y=17, z=46} gu{x=139, y=17, z=46}
+[02:23:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=130, y=16, z=32} gu{x=131, y=15, z=30}
+[02:24:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=97, y=17, z=12} gu{x=96, y=16, z=12}
+[02:24:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=97, y=17, z=12} gu{x=96, y=16, z=12}
+[02:24:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=97, y=17, z=12} gu{x=96, y=16, z=12}
+[02:24:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=97, y=17, z=12} gu{x=96, y=16, z=12}
+[02:24:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=78, y=15, z=14} gu{x=79, y=14, z=14}
+[02:25:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=62, y=14, z=6} gu{x=61, y=14, z=7}
+[02:25:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=49, y=13, z=1} gu{x=51, y=14, z=3}
+[02:25:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=48, y=13, z=0} gu{x=47, y=14, z=0}
+[02:25:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=48, y=13, z=0} gu{x=47, y=14, z=0}
+[02:25:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=48, y=13, z=0} gu{x=47, y=14, z=0}
+[02:25:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=48, y=13, z=0} gu{x=47, y=14, z=0}
+[02:25:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=48, y=13, z=0} gu{x=47, y=14, z=0}
+[02:25:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=48, y=13, z=0} gu{x=47, y=14, z=0}
+[02:25:44] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=50, y=14, z=4} gu{x=51, y=12, z=3}
+[02:25:45] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=51, y=14, z=4} gu{x=50, y=14, z=5}
+[02:25:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=49, y=15, z=4} gu{x=50, y=14, z=5}
+[02:25:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=49, y=16, z=4} gu{x=50, y=14, z=5}
+[02:25:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=49, y=16, z=5} gu{x=50, y=14, z=5}
+[02:25:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=49, y=16, z=5} gu{x=50, y=14, z=5}
+[02:25:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=49, y=16, z=5} gu{x=50, y=14, z=5}
+[02:25:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=49, y=16, z=5} gu{x=50, y=14, z=5}
+[02:25:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=49, y=16, z=5} gu{x=50, y=14, z=5}
+[02:25:50] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=51, y=16, z=5} gu{x=51, y=15, z=6}
+[02:25:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=48, y=15, z=6} gu{x=49, y=13, z=6}
+[02:25:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=48, y=15, z=6} gu{x=49, y=13, z=6}
+[02:25:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=48, y=16, z=5} gu{x=49, y=13, z=6}
+[02:25:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=47, y=16, z=6} gu{x=49, y=13, z=6}
+[02:25:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=47, y=16, z=6} gu{x=49, y=13, z=6}
+[02:25:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=47, y=16, z=4} gu{x=46, y=15, z=4}
+[02:25:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=47, y=16, z=5} gu{x=46, y=15, z=4}
+[02:25:52] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=47, y=16, z=5} gu{x=46, y=15, z=4}
+[02:25:52] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=47, y=16, z=5} gu{x=47, y=14, z=5}
+[02:26:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=46, y=21, z=14} gu{x=46, y=18, z=14}
+[02:26:08] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=52, y=15, z=3} gu{x=52, y=15, z=4}
+[02:26:08] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=52, y=15, z=4} gu{x=54, y=12, z=4}
+[02:27:45] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=125, y=20, z=-10} gu{x=124, y=21, z=-9}
+[02:27:45] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=125, y=20, z=-10} gu{x=124, y=21, z=-9}
+[02:27:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=129, y=26, z=-15} gu{x=129, y=25, z=-16}
+[02:27:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=129, y=26, z=-15} gu{x=129, y=25, z=-16}
+[02:28:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=141, y=47, z=-45} gu{x=141, y=45, z=-46}
+[02:29:17] [Server thread/INFO]: Ayuwoki_uwu[/[0:0:0:0:0:0:0:1%0]:44548] logged in with entity id 233021 at (32.49240486266933, 71.0, 94.3046534324544)
+[02:29:17] [Server thread/INFO]: Ayuwoki_uwu joined the game
+[02:31:01] [Server thread/INFO]: [Not Secure] <Ayuwoki_uwu> de q
+[02:31:11] [Server thread/INFO]: [Not Secure] <Ayuwoki_uwu> no c si necesito xd
+[02:31:18] [Server thread/INFO]: [Not Secure] <Ayuwoki_uwu> no c
