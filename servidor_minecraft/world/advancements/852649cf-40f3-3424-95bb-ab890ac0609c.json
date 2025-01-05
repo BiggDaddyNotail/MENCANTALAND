@@ -535,6 +535,7 @@
       "minecraft:creeper": "2025-01-04 22:19:20 +0000",
       "minecraft:zombified_piglin": "2025-01-04 21:32:18 +0000",
       "minecraft:wither_skeleton": "2025-01-04 21:47:00 +0000",
+      "minecraft:shulker": "2025-01-05 03:31:29 +0000",
       "minecraft:enderman": "2025-01-05 03:12:40 +0000",
       "minecraft:zombie": "2025-01-04 01:45:19 +0000"
     },
@@ -1963,6 +1964,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-05 03:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-01-05 03:20:17 +0000"
@@ -2092,6 +2099,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-05 03:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-05 03:29:42 +0000"
     },
     "done": true
   },
