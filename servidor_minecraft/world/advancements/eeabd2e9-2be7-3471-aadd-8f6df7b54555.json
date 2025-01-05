@@ -1447,6 +1447,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cat": "2025-01-05 02:59:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-01-05 00:32:32 +0000"
@@ -1777,6 +1783,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-05 02:59:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:49:23 +0000"
@@ -1794,6 +1806,14 @@
       "has_stone": "2025-01-05 01:38:32 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:tabby": "2025-01-05 02:59:47 +0000",
+      "minecraft:persian": "2025-01-05 02:59:04 +0000",
+      "minecraft:british_shorthair": "2025-01-05 03:00:44 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
