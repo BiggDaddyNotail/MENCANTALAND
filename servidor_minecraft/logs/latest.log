@@ -1,71 +1,98 @@
-[05:42:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05:42:53] [ServerMain/INFO]: Loaded 7 recipes
-[05:42:53] [ServerMain/INFO]: Loaded 1271 advancements
-[05:42:54] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[05:42:54] [Server thread/INFO]: Loading properties
-[05:42:54] [Server thread/INFO]: Default game type: SURVIVAL
-[05:42:54] [Server thread/INFO]: Generating keypair
-[05:42:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:42:54] [Server thread/INFO]: Using epoll channel type
-[05:42:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:42:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:42:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:42:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:42:54] [Server thread/INFO]: Preparing level "world"
-[05:42:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:43:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:43:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:43:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:43:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:43:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:43:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:43:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:43:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[05:43:00] [Worker-Main-3/INFO]: Preparing spawn area: 17%
-[05:43:01] [Server thread/INFO]: Time elapsed: 4515 ms
-[05:43:01] [Server thread/INFO]: Done (7.059s)! For help, type "help"
-[05:43:20] [Server thread/INFO]: N0tailDMC[/127.186.205.37:42379] logged in with entity id 112 at (32.65314002968562, 67.5, 179.80000001192093)
-[05:43:20] [Server thread/INFO]: N0tailDMC joined the game
-[05:43:45] [Server thread/INFO]: N0tailDMC lost connection: Disconnected
-[05:43:45] [Server thread/INFO]: N0tailDMC left the game
-[05:43:47] [Server thread/INFO]: N0tailDMC[/127.186.205.37:48145] logged in with entity id 222 at (32.65314002968562, 67.5, 179.80000001192093)
-[05:43:47] [Server thread/INFO]: N0tailDMC joined the game
-[05:44:58] [Server thread/INFO]: Raz3kSpk[/127.87.161.46:58163] logged in with entity id 405 at (665.0086095657117, 62.0, 1058.1679005143083)
-[05:44:58] [Server thread/INFO]: Raz3kSpk joined the game
-[05:46:15] [Server thread/INFO]: Raz3kSpk lost connection: Disconnected
-[05:46:15] [Server thread/INFO]: Raz3kSpk left the game
-[05:46:22] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
-[05:47:38] [Server thread/INFO]: sweetpainzzz[/127.91.217.177:35229] logged in with entity id 1923 at (13.684927818518132, 71.0, 106.60545589856248)
-[05:47:38] [Server thread/INFO]: sweetpainzzz joined the game
-[05:47:39] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
-[05:50:41] [Server thread/INFO]: DavidCak30[/127.161.150.23:36319] logged in with entity id 2976 at (-838.6999999880791, -20.0, 945.3000000119209)
-[05:50:41] [Server thread/INFO]: DavidCak30 joined the game
-[05:50:50] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
-[05:51:02] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
-[05:51:07] [Server thread/INFO]: [N0tailDMC: Teleported DavidCak30 to N0tailDMC]
-[05:52:39] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
-[05:52:41] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
-[05:53:35] [Server thread/INFO]: [N0tailDMC: Gave 100 [Diamond] to DavidCak30]
-[05:53:41] [Server thread/INFO]: [N0tailDMC: Gave 100 [Diamond] to DavidCak30]
-[05:54:05] [Server thread/INFO]: [N0tailDMC: Gave 50 [Diamond] to DavidCak30]
-[05:54:22] [Server thread/INFO]: [N0tailDMC: Gave 10 experience points to DavidCak30]
-[05:54:33] [Server thread/INFO]: [N0tailDMC: Gave 6 [Diamond] to DavidCak30]
-[05:54:42] [Server thread/INFO]: [N0tailDMC: Gave 100 experience points to DavidCak30]
-[05:54:45] [Server thread/INFO]: [N0tailDMC: Gave 100 experience points to DavidCak30]
-[05:54:47] [Server thread/INFO]: [N0tailDMC: Gave 100 experience points to DavidCak30]
-[05:54:48] [Server thread/INFO]: [N0tailDMC: Gave 100 experience points to DavidCak30]
-[05:55:09] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
-[05:58:29] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
-[06:00:20] [Server thread/WARN]: Horse (vehicle of DavidCak30) moved wrongly! 0.2863222795375009
-[06:02:47] [Server thread/INFO]: DavidCak30 has made the advancement [Enchanter]
-[06:04:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-41, y=60, z=399} gu{x=-39, y=60, z=402}
-[06:04:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-41, y=60, z=399} gu{x=-39, y=60, z=402}
-[06:04:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-41, y=60, z=399} gu{x=-39, y=60, z=402}
-[06:04:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-41, y=60, z=399} gu{x=-39, y=60, z=402}
-[06:04:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-41, y=60, z=399} gu{x=-39, y=60, z=402}
-[06:05:27] [Server thread/INFO]: [N0tailDMC: Made Ayuwoki_uwu a server operator]
-[06:11:26] [Server thread/INFO]: [Not Secure] <DavidCak30> notail
-[06:11:30] [Server thread/INFO]: [Not Secure] <N0tailDMC> dme
-[06:12:40] [Server thread/INFO]: [N0tailDMC: Gave 1000 experience points to DavidCak30]
-[06:12:43] [Server thread/INFO]: [N0tailDMC: Gave 1000 experience points to DavidCak30]
-[06:12:45] [Server thread/INFO]: [N0tailDMC: Gave 1000 experience points to DavidCak30]
+[06:28:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:28:50] [ServerMain/INFO]: Loaded 7 recipes
+[06:28:51] [ServerMain/INFO]: Loaded 1271 advancements
+[06:28:51] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[06:28:51] [Server thread/INFO]: Loading properties
+[06:28:51] [Server thread/INFO]: Default game type: SURVIVAL
+[06:28:51] [Server thread/INFO]: Generating keypair
+[06:28:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:28:51] [Server thread/INFO]: Using epoll channel type
+[06:28:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:28:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:28:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:28:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:28:51] [Server thread/INFO]: Preparing level "world"
+[06:28:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:28:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:28:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:28:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:28:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:28:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:28:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:28:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:28:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:28:58] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[06:28:58] [Server thread/INFO]: Time elapsed: 4426 ms
+[06:28:58] [Server thread/INFO]: Done (7.011s)! For help, type "help"
+[06:29:07] [Server thread/INFO]: N0tailDMC[/127.186.205.37:43773] logged in with entity id 76 at (-29.2479902820903, 76.0, 402.30000001192093)
+[06:29:07] [Server thread/INFO]: N0tailDMC joined the game
+[06:29:30] [Server thread/INFO]: DavidCak30[/127.161.150.23:56893] logged in with entity id 347 at (-36.96306148844432, 62.0, 405.35611886408833)
+[06:29:30] [Server thread/INFO]: DavidCak30 joined the game
+[06:33:02] [Server thread/INFO]: [N0tailDMC: Added Ayuwoki_uwu to the whitelist]
+[06:34:37] [Server thread/INFO]: sweetpainzzz[/127.91.217.177:45071] logged in with entity id 1293 at (-237.63261477959372, 65.0, 655.7817469261223)
+[06:34:37] [Server thread/INFO]: sweetpainzzz joined the game
+[06:36:00] [Server thread/INFO]: Villager byb['Villager'/1428, l='ServerLevel[world]', x=-238.01, y=63.00, z=725.43] died, message: 'Villager was slain by Zombie'
+[06:39:48] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:39:50] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:44:11] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:44:11] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:44:56] [Server thread/INFO]: [N0tailDMC: Gave 1000 experience points to DavidCak30]
+[06:45:22] [Server thread/INFO]: kchabuelas35[/127.140.216.34:33575] logged in with entity id 5055 at (40.50295842875785, 72.0, 103.30000001192093)
+[06:45:22] [Server thread/INFO]: kchabuelas35 joined the game
+[06:45:27] [Server thread/INFO]: [Not Secure] <sweetpainzzz> noooooooooooooo
+[06:45:37] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:45:37] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:45:43] [Server thread/INFO]: [N0tailDMC: Set own game mode to Spectator Mode]
+[06:45:45] [Server thread/INFO]: [N0tailDMC: Set own game mode to Creative Mode]
+[06:45:45] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:45:46] [Server thread/INFO]: [Not Secure] <sweetpainzzz> igualdad de condiciones y nos mechamos
+[06:45:48] [Server thread/INFO]: [Not Secure] <sweetpainzzz> habla
+[06:45:52] [Server thread/INFO]: [N0tailDMC: Set own game mode to Survival Mode]
+[06:46:22] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:46:23] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:46:27] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:46:27] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:46:28] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:46:38] [Server thread/INFO]: [kchabuelas35: Teleported kchabuelas35 to sweetpainzzz]
+[06:46:44] [Server thread/INFO]: [N0tailDMC: Teleported N0tailDMC to kchabuelas35]
+[06:46:50] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:05] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:05] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:05] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:08] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:09] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:09] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:09] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:09] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:10] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:13] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:14] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:14] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:14] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:15] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:15] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:15] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:15] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:15] [Server thread/INFO]: sweetpainzzz was burnt to a crisp whilst fighting N0tailDMC
+[06:47:16] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:16] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:16] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:16] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:28] [Server thread/INFO]: [N0tailDMC: Teleported sweetpainzzz to N0tailDMC]
+[06:47:36] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:36] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:36] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:36] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:37] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:37] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:37] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:37] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:44] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:44] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:48] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:48] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:49] [Server thread/INFO]: kchabuelas35 was killed
+[06:47:49] [Server thread/INFO]: [N0tailDMC: Killed kchabuelas35]
+[06:47:52] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:47:54] [Server thread/WARN]: Unable to create attribute: Cannot invoke "rk.c()" because "$$0" is null
+[06:48:04] [Server thread/INFO]: [kchabuelas35: Teleported kchabuelas35 to sweetpainzzz]
