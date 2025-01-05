@@ -1625,6 +1625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2025-01-05 01:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-01-04 23:54:38 +0000"
@@ -1697,6 +1703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2025-01-05 01:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 22:09:41 +0000"
@@ -1757,6 +1769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2025-01-05 01:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-01-05 00:42:26 +0000"
@@ -1766,6 +1784,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-01-04 23:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_from_honeycomb": {
+    "criteria": {
+      "has_exposed_copper": "2025-01-05 01:20:10 +0000"
     },
     "done": true
   },
@@ -1820,6 +1844,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-01-04 23:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper": {
+    "criteria": {
+      "has_exposed_copper": "2025-01-05 01:20:10 +0000"
     },
     "done": true
   },
