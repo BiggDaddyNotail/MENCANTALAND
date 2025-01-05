@@ -3016,5 +3016,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-01-05 07:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-01-05 07:01:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
