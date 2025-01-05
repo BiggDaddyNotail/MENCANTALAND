@@ -34,3 +34,9 @@
 [14:12:12] [Server thread/INFO]: assassin25173 left the game
 [14:12:15] [Server thread/INFO]: assassin25173[/127.34.152.188:54595] logged in with entity id 1186 at (72.29659075946006, 66.0, 82.43687073075552)
 [14:12:15] [Server thread/INFO]: assassin25173 joined the game
+[14:26:32] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=77, y=66, z=134} gu{x=76, y=64, z=134}
+[14:26:36] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=81, y=66, z=129} gu{x=81, y=64, z=130}
+[14:26:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=81, y=66, z=135} gu{x=82, y=64, z=136}
+[14:26:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=83, y=66, z=145} gu{x=84, y=64, z=145}
+[14:26:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=86, y=64, z=146} gu{x=85, y=64, z=146}
+[14:26:44] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=92, y=66, z=143} gu{x=94, y=64, z=143}
