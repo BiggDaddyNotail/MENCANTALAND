@@ -43,3 +43,7 @@
 [15:37:08] [Server thread/INFO]: colcolic has made the advancement [Enchanter]
 [16:04:23] [Server thread/INFO]: sweetpainzzz was shot by Skeleton
 [16:14:16] [Server thread/INFO]: sweetpainzzz has made the advancement [Acquire Hardware]
+[16:21:06] [Server thread/INFO]: sweetpainzzz lost connection: Disconnected
+[16:21:06] [Server thread/INFO]: sweetpainzzz left the game
+[16:22:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=21, y=65, z=9} gu{x=16, y=65, z=-2}
+[16:22:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=21, y=65, z=9} gu{x=15, y=65, z=-1}
