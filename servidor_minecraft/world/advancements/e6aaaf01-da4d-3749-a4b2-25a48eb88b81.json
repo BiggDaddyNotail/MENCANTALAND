@@ -1230,6 +1230,7 @@
       "minecraft:piglin": "2025-01-04 02:57:07 +0000",
       "minecraft:enderman": "2025-01-04 20:19:34 +0000",
       "minecraft:silverfish": "2025-01-04 22:03:08 +0000",
+      "minecraft:endermite": "2025-01-05 21:37:04 +0000",
       "minecraft:zombie": "2025-01-04 02:09:52 +0000",
       "minecraft:drowned": "2025-01-05 04:26:56 +0000",
       "minecraft:zombie_villager": "2025-01-04 04:11:00 +0000"
@@ -3043,6 +3044,18 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-01-05 07:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-05 21:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-05 21:34:57 +0000"
     },
     "done": true
   },
