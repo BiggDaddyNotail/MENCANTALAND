@@ -317,6 +317,7 @@
       "minecraft:spider": "2025-01-04 03:42:39 +0000",
       "minecraft:creeper": "2025-01-05 02:30:10 +0000",
       "minecraft:phantom": "2025-01-04 22:45:47 +0000",
+      "minecraft:zombified_piglin": "2025-01-05 15:23:58 +0000",
       "minecraft:witch": "2025-01-05 04:45:18 +0000",
       "minecraft:enderman": "2025-01-05 04:28:06 +0000",
       "minecraft:zombie": "2025-01-04 02:31:25 +0000"
@@ -1397,7 +1398,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-01-04 21:05:43 +0000",
-      "minecraft:soul_sand_valley": "2025-01-04 21:08:17 +0000"
+      "minecraft:soul_sand_valley": "2025-01-04 21:08:17 +0000",
+      "minecraft:warped_forest": "2025-01-05 15:30:24 +0000"
     },
     "done": false
   },
@@ -2235,15 +2237,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-05 15:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-05 15:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-05 15:04:18 +0000"
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-05 15:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-05 15:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-05 15:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-01-05 15:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-05 15:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-05 15:24:56 +0000"
     },
     "done": true
   },
