@@ -3016,9 +3016,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/fall_from_world_height": {
+  "minecraft:adventure/throw_trident": {
     "criteria": {
-      "fall_from_world_height": "2025-01-05 07:18:32 +0000"
+      "shot_trident": "2025-01-05 07:01:34 +0000"
     },
     "done": true
   },
@@ -3028,9 +3028,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/throw_trident": {
+  "minecraft:adventure/fall_from_world_height": {
     "criteria": {
-      "shot_trident": "2025-01-05 07:01:34 +0000"
+      "fall_from_world_height": "2025-01-05 07:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-01-05 07:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-01-05 07:54:54 +0000"
     },
     "done": true
   },
