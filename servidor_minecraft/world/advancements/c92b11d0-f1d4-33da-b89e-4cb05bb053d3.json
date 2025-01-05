@@ -1983,6 +1983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-05 04:03:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2025-01-05 02:57:05 +0000"
@@ -2157,6 +2163,12 @@
       "minecraft:red": "2025-01-05 02:57:12 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-05 04:03:06 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
