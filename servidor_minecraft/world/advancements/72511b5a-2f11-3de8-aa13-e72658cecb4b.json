@@ -231,6 +231,7 @@
       "porkchop": "2025-01-04 03:05:04 +0000",
       "apple": "2025-01-05 15:57:40 +0000",
       "mutton": "2025-01-04 03:22:02 +0000",
+      "bread": "2025-01-05 16:03:35 +0000",
       "rotten_flesh": "2025-01-05 00:15:07 +0000",
       "golden_carrot": "2025-01-04 03:38:58 +0000",
       "cooked_chicken": "2025-01-04 02:51:23 +0000"
@@ -1797,6 +1798,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-05 16:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-05 16:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-05 16:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-05 16:07:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-01-05 15:44:24 +0000"
@@ -1806,6 +1831,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-01-05 15:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-05 16:07:01 +0000"
     },
     "done": true
   },
