@@ -35,3 +35,6 @@
 [15:09:48] [Server thread/INFO]: colcolic fell from a high place
 [15:13:32] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=74, y=67, z=100} gu{x=75, y=65, z=100}
 [15:13:32] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=74, y=67, z=100} gu{x=75, y=65, z=100}
+[15:27:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=109, y=65, z=50} gu{x=110, y=63, z=50}
+[15:27:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=113, y=65, z=53} gu{x=114, y=63, z=54}
+[15:27:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=114, y=64, z=52} gu{x=113, y=63, z=50}
