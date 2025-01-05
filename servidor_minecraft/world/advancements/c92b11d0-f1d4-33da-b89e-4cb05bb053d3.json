@@ -10,12 +10,16 @@
       "minecraft:old_growth_pine_taiga": "2025-01-04 22:52:30 +0000",
       "minecraft:taiga": "2025-01-04 20:22:26 +0000",
       "minecraft:cherry_grove": "2025-01-04 22:59:26 +0000",
+      "minecraft:beach": "2025-01-04 23:52:01 +0000",
       "minecraft:river": "2025-01-04 20:10:36 +0000",
+      "minecraft:stony_shore": "2025-01-04 23:49:20 +0000",
       "minecraft:dripstone_caves": "2025-01-04 20:37:53 +0000",
       "minecraft:cold_ocean": "2025-01-04 22:54:53 +0000",
       "minecraft:forest": "2025-01-04 20:19:57 +0000",
       "minecraft:deep_cold_ocean": "2025-01-04 22:57:00 +0000",
+      "minecraft:ocean": "2025-01-04 23:51:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-04 20:31:33 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-04 23:52:06 +0000",
       "minecraft:plains": "2025-01-04 20:10:01 +0000"
     },
     "done": false
@@ -1234,6 +1238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 00:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-04 21:35:10 +0000"
@@ -1741,6 +1751,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-04 22:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-05 00:02:05 +0000"
     },
     "done": true
   },
