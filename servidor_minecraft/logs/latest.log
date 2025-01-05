@@ -32,3 +32,6 @@
 [15:03:05] [Server thread/INFO]: assassin25173[/127.34.152.188:43629] logged in with entity id 314 at (92.66934079948275, 65.0, 136.71402020253944)
 [15:03:05] [Server thread/INFO]: assassin25173 joined the game
 [15:04:18] [Server thread/INFO]: colcolic has made the advancement [Ice Bucket Challenge]
+[15:09:48] [Server thread/INFO]: colcolic fell from a high place
+[15:13:32] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=74, y=67, z=100} gu{x=75, y=65, z=100}
+[15:13:32] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=74, y=67, z=100} gu{x=75, y=65, z=100}
