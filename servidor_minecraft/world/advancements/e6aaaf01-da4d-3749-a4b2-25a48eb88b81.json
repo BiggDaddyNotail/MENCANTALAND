@@ -3016,6 +3016,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/fall_from_world_height": {
+    "criteria": {
+      "fall_from_world_height": "2025-01-05 07:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-01-05 07:08:05 +0000"
