@@ -54,3 +54,15 @@
 [16:42:45] [Server thread/INFO]: [kchabuelas35: Set own game mode to Survival Mode]
 [16:43:44] [Server thread/INFO]: assassin25173 was blown up by Creeper
 [16:46:48] [Server thread/INFO]: [kchabuelas35: Set own game mode to Creative Mode]
+[16:52:03] [Server thread/INFO]: kchabuelas35 lost connection: Disconnected
+[16:52:03] [Server thread/INFO]: kchabuelas35 left the game
+[16:52:03] [Server thread/WARN]: handleDisconnection() called twice
+[16:52:57] [Server thread/INFO]: kchabuelas35[/127.140.216.34:57063] logged in with entity id 36888 at (-6.224514351324111, 64.0, 185.96579689189772)
+[16:52:57] [Server thread/INFO]: kchabuelas35 joined the game
+[16:53:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=48, y=70, z=125} gu{x=48, y=68, z=127}
+[16:53:46] [Server thread/INFO]: sweetpainzzz[/127.91.217.177:49343] logged in with entity id 37226 at (-36.027871761821594, 66.0, 411.5515899836401)
+[16:53:46] [Server thread/INFO]: sweetpainzzz joined the game
+[16:54:22] [Server thread/INFO]: [kchabuelas35: Teleported kchabuelas35 to sweetpainzzz]
+[16:55:42] [Server thread/INFO]: [kchabuelas35: Set own game mode to Survival Mode]
+[16:57:03] [Server thread/INFO]: [kchabuelas35: Set own game mode to Creative Mode]
+[16:58:25] [Server thread/INFO]: [kchabuelas35: Set own game mode to Survival Mode]
