@@ -21,6 +21,7 @@
       "minecraft:swamp": "2025-01-05 04:22:10 +0000",
       "minecraft:forest": "2025-01-04 01:15:38 +0000",
       "minecraft:ocean": "2025-01-05 04:22:53 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-05 23:19:28 +0000",
       "minecraft:flower_forest": "2025-01-05 07:52:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-04 02:07:56 +0000",
       "minecraft:deep_dark": "2025-01-05 03:08:53 +0000",
@@ -1637,9 +1638,10 @@
       "minecraft:crimson_forest": "2025-01-05 04:14:42 +0000",
       "minecraft:nether_wastes": "2025-01-04 21:05:37 +0000",
       "minecraft:soul_sand_valley": "2025-01-04 21:08:59 +0000",
-      "minecraft:basalt_deltas": "2025-01-05 04:14:04 +0000"
+      "minecraft:basalt_deltas": "2025-01-05 04:14:04 +0000",
+      "minecraft:warped_forest": "2025-01-05 22:59:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -2553,6 +2555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-05 23:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-05 22:51:31 +0000"
@@ -2637,6 +2645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-05 23:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_door": {
     "criteria": {
       "has_planks": "2025-01-05 22:51:31 +0000"
@@ -2652,6 +2666,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-01-05 22:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-05 23:07:16 +0000"
     },
     "done": true
   },
@@ -2682,6 +2702,12 @@
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2025-01-05 22:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-05 23:07:04 +0000"
     },
     "done": true
   },

@@ -38,6 +38,7 @@
       "minecraft:creeper": "2025-01-05 01:07:27 +0000",
       "minecraft:phantom": "2025-01-05 01:48:53 +0000",
       "minecraft:zombified_piglin": "2025-01-05 22:52:28 +0000",
+      "minecraft:piglin": "2025-01-05 22:55:57 +0000",
       "minecraft:enderman": "2025-01-05 02:12:07 +0000",
       "minecraft:zombie": "2025-01-04 01:46:25 +0000",
       "minecraft:drowned": "2025-01-05 21:25:14 +0000",
@@ -2287,7 +2288,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-01-05 22:36:08 +0000"
+      "minecraft:crimson_forest": "2025-01-05 22:54:34 +0000",
+      "minecraft:nether_wastes": "2025-01-05 22:36:08 +0000",
+      "minecraft:soul_sand_valley": "2025-01-05 22:53:39 +0000",
+      "minecraft:warped_forest": "2025-01-05 23:02:51 +0000"
     },
     "done": false
   },
@@ -2321,6 +2325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-05 22:59:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-01-05 22:41:42 +0000"
@@ -2336,6 +2346,36 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-01-05 22:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-05 22:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-05 22:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-05 22:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-05 23:03:10 +0000"
     },
     "done": true
   },
