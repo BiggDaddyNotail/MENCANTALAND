@@ -1524,9 +1524,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 22:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
     },
     "done": true
   },
@@ -1608,6 +1632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-01-04 23:54:38 +0000"
@@ -1662,6 +1692,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-01-04 23:54:38 +0000"
@@ -1686,6 +1728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-04 21:34:17 +0000"
@@ -1707,6 +1755,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-05 00:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
     },
     "done": true
   },
@@ -1740,15 +1794,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_copper_stonecutting": {
     "criteria": {
       "has_exposed_copper": "2025-01-05 01:20:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 22:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
     },
     "done": true
   },
@@ -1830,6 +1902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_copper_from_honeycomb": {
     "criteria": {
       "has_exposed_copper": "2025-01-05 01:20:10 +0000"
@@ -1884,6 +1962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2025-01-05 02:34:24 +0000"
@@ -1902,9 +1986,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-01-04 23:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 03:16:52 +0000"
     },
     "done": true
   },

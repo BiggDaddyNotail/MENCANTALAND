@@ -1885,6 +1885,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-01-05 03:19:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-01-05 02:54:29 +0000"
@@ -1894,6 +1900,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-05 03:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-05 03:18:58 +0000"
     },
     "done": true
   },
@@ -1951,9 +1963,33 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-05 03:20:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-05 03:18:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-05 03:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-05 03:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-01-05 03:13:58 +0000"
     },
     "done": true
   },
@@ -2041,9 +2077,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-05 03:18:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-05 03:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-05 03:18:58 +0000"
     },
     "done": true
   },

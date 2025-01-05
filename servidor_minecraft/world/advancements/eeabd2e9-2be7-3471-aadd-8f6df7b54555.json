@@ -1580,6 +1580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-01-05 03:23:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:49:23 +0000"
@@ -1682,6 +1688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-05 03:21:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-01-05 01:38:32 +0000"
@@ -1703,6 +1715,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-01-05 00:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-05 03:21:47 +0000"
     },
     "done": true
   },
